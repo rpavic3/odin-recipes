@@ -1,0 +1,36 @@
+@import url('https://fonts.googleapis.com/css2?family=Kdam+Thmor+Pro&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Glass+Antiqua&display=swap');
+
+body {
+    font-family: "Kdam Thmor Pro";
+    background-color: rgb(211, 210, 197);
+}
+
+h1 {
+    color: rgba(175, 138, 34, 0.938);
+}
+
+ol {
+    list-style:upper-roman;
+}
+
+#landinglist {
+    list-style-position: inside;
+    padding-left: 890px; 
+}
+
+#quote {
+    font-family: "Glass Antiqua";
+    text-align: center;
+
+}
+
+#landing {
+    text-align: center;
+}
+#landing:hover {
+    border: dashed;
+    border-radius: 40px;
+    box-shadow: 3px 3px 9px rgba(0, 0, 0, 0.3);
+}
+
